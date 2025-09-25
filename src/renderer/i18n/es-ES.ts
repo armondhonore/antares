@@ -299,7 +299,7 @@ export const esES = {
       general: 'General',
       themes: 'Temas',
       update: 'Actualizar',
-      about: 'Sobre',
+      about: 'Acerca De',
       language: 'Idioma',
       shortcuts: 'Atajos',
       key: 'Tecla | Teclas', // Keyboard key
