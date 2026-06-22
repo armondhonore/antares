@@ -1,0 +1,8 @@
+application:
+  name: antares
+  pods:
+  - name: app
+    image: fabioiscool/antares:latest
+    path: /
+    servicePorts:
+    - 3000
