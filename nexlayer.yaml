@@ -1,8 +1,9 @@
 application:
   name: antares
   pods:
-  - name: app
-    image: fabioiscool/antares:latest
-    path: /
-    servicePorts:
-    - 3000
+    - name: app
+      image: "registry.nexlayer.io/user_01kece1xyh817dwff7wnarhkxd/antares:9f1ffa1-fix6"
+      path: /
+      servicePorts:
+        - 3000
+      vars: {}
